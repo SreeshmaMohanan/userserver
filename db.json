@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Ervin Howelliy",
+      "email": "Shanna@melissa.tv",
+      "username": "Antonette",
+      "url": "https://cdn-icons-png.flaticon.com/512/219/219983.png",
+      "id": 1
+    },
+    {
+      "name": "Saiful",
+      "email": "saiful@gmail.com",
+      "username": "Saiful123",
+      "url": "https://static.vecteezy.com/system/resources/previews/019/896/008/original/male-user-avatar-icon-in-flat-design-style-person-signs-illustration-png.png",
+      "id": 2
+    },
+    {
+      "name": "Samantha N",
+      "email": "samantha@gmail.com",
+      "username": "Samantha09",
+      "url": "https://cdn-icons-png.flaticon.com/512/190/190664.png",
+      "id": 3
+    },
+    {
+      "name": "Prajul K M",
+      "email": "prajulkm@gmail.com",
+      "username": "prajul004",
+      "url": "https://png.pngtree.com/png-clipart/20190924/original/pngtree-vector-user-young-boy-avatar-icon-png-image_4827810.jpg",
+      "id": 4
+    }
+  ]
+}
